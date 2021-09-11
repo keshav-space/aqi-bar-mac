@@ -5,7 +5,7 @@
 # <xbar.author>Keshav Priyadarshi</xbar.author>
 # <xbar.author.github>keshav.space</xbar.author.github>
 # <xbar.desc>Real-time Air Quality Index. You need to set the API_TOKEN and CITY in this plugin.</xbar.desc>
-# <xbar.image></xbar.image>
+# <xbar.image>https://raw.githubusercontent.com/keshav-space/aqi-bar-mac/main/Screenshot.png</xbar.image>
 
 from datetime import datetime, timedelta
 import json
