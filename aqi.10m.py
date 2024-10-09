@@ -1,11 +1,22 @@
 #!/usr/bin/env LC_ALL=en_US.UTF-8 /usr/local/bin/python3
+
 #
+# Copyright (C) Keshav Priyadarshi and others - All Rights Reserved.
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+# You may use, distribute and modify this code under the
+# terms of the GPL-3.0+ license.
+#
+# You should have received a copy of the GNU General Public License v3.0 with
+# this file. If not, please visit https://www.gnu.org/licenses/gpl-3.0.html
+#
+
 # <xbar.title>Air Quality Index</xbar.title>
 # <xbar.version>v1.1</xbar.version>
 # <xbar.author>Keshav Priyadarshi</xbar.author>
 # <xbar.author.github>keshav.space</xbar.author.github>
 # <xbar.desc>Real-time Air Quality Index. You need to set the API_TOKEN and CITY in this plugin.</xbar.desc>
-# <xbar.image>https://raw.githubusercontent.com/keshav-space/aqi-bar-mac/main/Screenshot.png</xbar.image>
+# <xbar.image>https://raw.githubusercontent.com/keshav-space/aqi-bar-mac/main/assets/Screenshot.png</xbar.image>
 
 from datetime import datetime, timedelta
 import json
